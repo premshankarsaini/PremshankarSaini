@@ -1,6 +1,6 @@
 This is my first Git Repository.
 <br>
-Author - Premshankar Saini
+Author - Premshankar_Saini(Data Analyst)
 
 <!--
 **premshankarsaini/PremshankarSaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
